@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anbu-Selvam-77
+- 👋 Hi, I’m Anbu 
 - 👀 I’m interested in DATA ANALYST 
 - 🌱 I’m currently learning AI&DS
 - 💞️ I’m looking to collaborate on YOUNG BUDDIES
