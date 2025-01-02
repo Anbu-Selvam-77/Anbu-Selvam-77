@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Anbu 
-- 👀 I’m interested in DATA ANALYST 
-- 🌱 I’m currently learning AI&DS
-- 💞️ I’m looking to collaborate on YOUNG BUDDIES
-- 📫 How to reach me throungh instagram @_anbu.77
+-  Hi, I’m Anbu 
+-  I’m interested in DATA ANALYST 
+-  I’m currently learning AI&DS
+-  How to reach me throungh instagram @_anbu.77
 
 <!---
 Anbu-Selvam-77/Anbu-Selvam-77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
